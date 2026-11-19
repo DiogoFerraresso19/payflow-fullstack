@@ -1,0 +1,14 @@
+# Java / Maven
+backend/target/
+*.jar
+*.war
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# IDEs e Sistema
+.vscode/
+.idea/
+*.log
+.DS_Store
